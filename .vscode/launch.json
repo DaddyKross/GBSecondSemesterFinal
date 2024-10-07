@@ -5,15 +5,15 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
-            "mainClass": "com.pitomnik.Main",
-            "projectName": "Pitomnik2_be8ccdeb"
+            "mainClass": "com.PetNursery.Main",
+            "projectName": "GBSecondSemesterFinal_be8ccdeb"
         },
         {
             "type": "java",
             "name": "Launch Main",
             "request": "launch",
-            "mainClass": "com.pitomnik.Main",
-            "projectName": "Pitomnik2",
+            "mainClass": "com.PetNursery.Main",
+            "projectName": "GBSecondSemesterFinal",
             "classPaths": [
                 "${workspaceFolder}/lib/mysql-connector-java-9.0.0.jar",
                 "${workspaceFolder}/bin"
@@ -21,4 +21,3 @@
         }
     ]
 }
-
